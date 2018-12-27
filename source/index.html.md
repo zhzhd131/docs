@@ -13,7 +13,7 @@ includes:
 search: true
 ---
 
-# Introduction to API 1.0 Chinese
+# Introduction to API 2.0 English
 
 Welcome to the Huobi API! You can use our API to access all market data, trading, and account management endpoints.
 

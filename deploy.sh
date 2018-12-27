@@ -32,12 +32,12 @@ parse_args() {
 
   #default version uses 1 if a custom one is not supplied
   if [[ -z $version ]]; then
-    version=1
+    version=2
   fi
 
   #default language uses en if a custom one is not supplied
   if [[ -z $language ]]; then
-    language=cn
+    language=en
   fi
 
   # Parse arg flags
